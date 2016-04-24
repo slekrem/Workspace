@@ -27,3 +27,8 @@ $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/inst
 ```sh
 $ defaults write com.apple.finder _FXShowPosixPathInTitle -bool YES
 ```
+
+### Suchen
+```sh
+$ find / -name asd* -print
+```
