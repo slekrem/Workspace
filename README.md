@@ -32,3 +32,7 @@ $ defaults write com.apple.finder _FXShowPosixPathInTitle -bool YES
 ```sh
 $ find / -name asd* -print
 ```
+
+```sh
+$ sudo softwareupdate -l
+```
