@@ -21,3 +21,9 @@ $ killall Finder
 ```sh
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
+
+### Pfad Ansicht im Finder aktivieren.
+
+```sh
+$ defaults write com.apple.finder _FXShowPosixPathInTitle -bool YES
+```
