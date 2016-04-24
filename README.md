@@ -9,3 +9,7 @@ $ killall Finder
 $ defaults write com.apple.finder AppleShowAllFiles 0
 $ killall Finder
 ```
+
+```sh
+$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
