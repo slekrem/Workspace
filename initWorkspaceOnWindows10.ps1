@@ -3,3 +3,5 @@
 
 #Installiere Tools 
 choco install google-chrome-x64 -y
+choco install notepadplusplus.install -y
+choco install visualstudio2015enterprise -y
