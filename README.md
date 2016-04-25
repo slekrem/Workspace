@@ -1,41 +1,13 @@
-# Workspace OSX
+# Workspace
 
-## Terminal Kommandos:
-
-### Versteckte Files anzeigen.
+## init workspace on ubuntu Xenial Xerus
 
 ```sh
-$ defaults write com.apple.finder AppleShowAllFiles 1
-$ killall Finder
-```
+$ sudo apt-get update
+$ sudo apt-apt-get upgrade
 
-### Versteckte Files verstecken.
+$ sudo apt-get install git
 
-```sh
-$ defaults write com.apple.finder AppleShowAllFiles 0
-$ killall Finder
-```
-
-### Homebrew installieren.
-
-```sh
-$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-```
-
-### Pfad Ansicht im Finder aktivieren.
-
-```sh
-$ defaults write com.apple.finder _FXShowPosixPathInTitle -bool YES
-```
-
-### Suchen
-
-```sh
-$ find / -name asd* -print
-```
-
-### Softwareupdate
-
-```sh
-$ sudo softwareupdate
+$ sudo git clone https://github.com/stefanmerkel/workspace/
+$ sudo bash workspace/initWorkspaceOnUbuntuXenialXerus.sh
 ```
