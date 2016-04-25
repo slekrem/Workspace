@@ -26,6 +26,8 @@ choco install virtualbox -y -v
 choco install steam -y -v 
 
 choco install 7zip.install -y -v
+choco install filezilla -y -v
+choco install vlc -y -v
 
 #install atom plugins
 apm install omnisharp-atom
