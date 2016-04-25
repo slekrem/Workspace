@@ -16,3 +16,4 @@ brew cask install atom
 
 # install terminal-plus
 apm install terminal-plus
+apm install script
