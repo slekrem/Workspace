@@ -8,6 +8,8 @@ choco install notepadplusplus.install -y -v
 choco install atom -y -v
 choco install visualstudio2015enterprise -y -v
 choco install intellijidea-community -y -v
+choco install jdk8 -y -v
+choco install android-sdk -y -v
 choco install mysql.workbench -y -v
 choco install aspnet5 -y -v
 choco install sourcetree -y -v 
