@@ -31,6 +31,8 @@ choco install 7zip.install -y -v
 choco install filezilla -y -v
 choco install vlc -y -v
 choco install adobereader -y -v
+choco install putty -y -v
+choco install teamviewer -y -v
 
 #install atom plugins
 apm install omnisharp-atom
