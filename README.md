@@ -9,5 +9,5 @@ $ sudo apt-apt-get upgrade
 $ sudo apt-get install git
 
 $ sudo git clone https://github.com/stefanmerkel/workspace/
-$ sudo bash initWorkspaceOnUbuntuXenialXerus.sh
+$ sudo bash workspace/initWorkspaceOnUbuntuXenialXerus.sh
 ```
