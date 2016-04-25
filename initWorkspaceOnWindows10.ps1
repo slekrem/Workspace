@@ -2,8 +2,10 @@
 (iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1')))>$null 2>&1
 
 #install Tools 
+# browser
 choco install google-chrome-x64 -y -v
 
+#development tools
 choco install notepadplusplus.install -y -v
 choco install atom -y -v
 choco install visualstudio2015enterprise -y -v
@@ -16,17 +18,20 @@ choco install aspnet5 -y -v
 choco install sourcetree -y -v 
 choco install nodejs.install -y -v 
 choco install texstudio -y -v
-
 choco install unity -y -v 
 choco install unitywebplayer -y -v  
 
+#communication
 choco install teamspeak -y -v 
 choco install skype -y -v 
 
+#vm
 choco install virtualbox -y -v 
 
+# gaming and development
 choco install steam -y -v 
 
+#other tools
 choco install 7zip.install -y -v
 choco install filezilla -y -v
 choco install vlc -y -v
