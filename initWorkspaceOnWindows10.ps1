@@ -7,6 +7,7 @@ choco install google-chrome-x64 -y -v
 choco install notepadplusplus.install -y -v
 choco install atom -y -v
 choco install visualstudio2015enterprise -y -v
+choco install visualstudiocode -y -v
 choco install intellijidea-community -y -v
 choco install jdk8 -y -v
 choco install android-sdk -y -v
