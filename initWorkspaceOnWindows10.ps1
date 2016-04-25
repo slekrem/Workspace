@@ -2,28 +2,28 @@
 (iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1')))>$null 2>&1
 
 #install Tools 
-choco install google-chrome-x64 -y
+choco install google-chrome-x64 -y -v
 
-choco install notepadplusplus.install -y
-choco install atom -y
-choco install visualstudio2015enterprise -y
-choco install intellijidea-community -y
-choco install mysql.workbench -y
-choco install aspnet5 -y
-choco install sourcetree -y
-choco install nodejs.install -y
+choco install notepadplusplus.install -y -v
+choco install atom -y -v
+choco install visualstudio2015enterprise -y -v
+choco install intellijidea-community -y -v
+choco install mysql.workbench -y -v
+choco install aspnet5 -y -v
+choco install sourcetree -y -v 
+choco install nodejs.install -y -v 
 
-choco install unity -y
-choco install unitywebplayer -y 
+choco install unity -y -v 
+choco install unitywebplayer -y -v  
 
-choco install teamspeak -y
-choco install skype -y
+choco install teamspeak -y -v 
+choco install skype -y -v 
 
-choco install virtualbox -y
+choco install virtualbox -y -v 
 
-choco install steam -y
+choco install steam -y -v 
 
-choco install 7zip.install -y
+choco install 7zip.install -y -v
 
 #install atom plugins
 apm install omnisharp-atom
