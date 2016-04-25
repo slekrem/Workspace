@@ -3,5 +3,19 @@
 
 #Installiere Tools 
 choco install google-chrome-x64 -y
+
 choco install notepadplusplus.install -y
 choco install visualstudio2015enterprise -y
+choco install intellijidea-community -y
+choco install aspnet5 -y
+choco install sourcetree -y
+
+choco install unity -y
+choco install unitywebplayer -y 
+
+choco install teamspeak -y
+choco install skype -y
+
+choco install virtualbox -y
+
+choco install steam -y
