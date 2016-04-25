@@ -1,6 +1,6 @@
 # Workspace
 
-## Ubuntu Xenial Xerus
+## init workspace on ubuntu Xenial Xerus
 
 ```sh
 $ sudo apt-get update && apt-get upgrade
