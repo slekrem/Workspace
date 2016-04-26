@@ -8,7 +8,7 @@ brew install cask
 
 # install casks
 brew cask install virtualbox
-brew cask install boot2docker
+brew cask install docker-machine
 brew cask install google-chrome
 brew cask install sourcetree
 brew cask install visual-studio-code
