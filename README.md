@@ -16,4 +16,6 @@ $ sudo bash workspace/initWorkspaceOnUbuntuXenialXerus.sh
 
 ```sh
 $ git clone https://github.com/atom/atom
+$ cd atom
+$ atom .
 ```
