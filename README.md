@@ -11,3 +11,9 @@ $ sudo apt-get install git
 $ sudo git clone https://github.com/stefanmerkel/workspace/
 $ sudo bash workspace/initWorkspaceOnUbuntuXenialXerus.sh
 ```
+
+### clone atom
+
+```sh
+$ git clone https://github.com/atom/atom
+```
