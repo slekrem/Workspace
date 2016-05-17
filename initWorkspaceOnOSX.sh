@@ -21,3 +21,4 @@ brew cask install skype
 apm install npm-install
 apm install terminal-plus
 apm install script
+apm install git-plus
