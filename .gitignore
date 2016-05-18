@@ -1,1 +1,2 @@
 VirtualBoxVMs/DockerTest/bin/
+dotnet-uninstall-pkgs.sh
