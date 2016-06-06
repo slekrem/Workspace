@@ -20,6 +20,7 @@ choco install nodejs.install -y -v
 choco install texstudio -y -v
 choco install unity -y -v 
 choco install unitywebplayer -y -v  
+choco install cmake -y -v
 
 #communication
 choco install teamspeak -y -v 
