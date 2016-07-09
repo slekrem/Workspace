@@ -10,6 +10,7 @@ brew install openssl
 brew link --force openssl
 
 # install casks
+brew cask install virtualbox
 brew cask install dockertoolbox
 brew cask install google-chrome
 brew cask install sourcetree
