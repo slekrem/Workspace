@@ -14,11 +14,9 @@ brew cask install virtualbox
 brew cask install dockertoolbox
 brew cask install google-chrome
 brew cask install sourcetree
-brew cask install iterm2
 brew cask install atom
 brew cask install visual-studio-code
 brew cask install skype
-brew cask install mono-mdk
 
 # install terminal-plus
 apm install npm-install
